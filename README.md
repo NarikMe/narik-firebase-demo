@@ -25,8 +25,6 @@ Finally run the demo
 ng serve
 ```
 
-Use **admin** as username and **123** as password.
-
 ## Documentation
 
 You can find documentation in  [Narik Wiki](https://github.com/NarikMe/narik-angular/wiki)
